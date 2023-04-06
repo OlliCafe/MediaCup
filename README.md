@@ -1,2 +1,2 @@
 # MediaCup
-Supposed to be for implementing media into java programs
+A java program made in Eclipse to make it easier to add media elements into your java programs
